@@ -40,7 +40,7 @@ A sleek and professional feedback form designed for user engagement. This form a
    ```
 2. Navigate to the project folder:
    ```bash
-   cd feedback-form-prototype
+   cd -interactive-feedback-form
    ```
 3. Open the `index.html` file in your browser to view the feedback form.
 
