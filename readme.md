@@ -36,7 +36,7 @@ A sleek and professional feedback form designed for user engagement. This form a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/feedback-form-prototype.git
+   git clone https://github.com/SwarnadeepDeb/-interactive-feedback-form.git
    ```
 2. Navigate to the project folder:
    ```bash
