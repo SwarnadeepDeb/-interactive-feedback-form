@@ -82,12 +82,3 @@ Contributions are welcome! If you have ideas for improvements or new features:
 We'd love to hear your thoughts on this prototype! Feel free to open an issue or reach out with suggestions.
 
 ---
-
-### Author:
-**Your Name**  
-[GitHub Profile](https://github.com/your-username)  
-[LinkedIn](https://linkedin.com/in/your-profile)
-
---- 
-
-Let us know how we can make this project better! 😊
